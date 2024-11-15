@@ -1,12 +1,14 @@
-## привчедел? 👋
+## *Мне опять снился сон...*
 
 - 🤫 *some ITMO Labs enjoyer* 
 - ❤️ live in **CoWorking space** on *Kronverskiy avenue, 49* 
 - ❗️ **only deadline_0**
 
+
 ### for contact use: 
-- [**telegram**](tg.me/elemantreum)
+- [**telegram**](t.me/elemantreum)
 - [**discord**](https://discordapp.com/users/224214254755119105/)
 
-**Elemantreum/Elemantreum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+<h1 align="center"><img src="ITMO_is_proud.jpg" height="250"/></h1>
 
